@@ -1,3 +1,3 @@
 FROM alpine
 
-RUN apk add --no-cache sshpass
+RUN apk add --no-cache sshpass openssh
